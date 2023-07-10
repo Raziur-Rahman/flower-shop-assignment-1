@@ -30,4 +30,31 @@
 }
 #bannar-btn{
     margin-top: 10px;
+    
+}
+/*deals section*/
+.Deal{
+    background-color: #f9e0e0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 300px;
+    max-height: 400px;
+    margin-top: 10px;
+}
+.deals-para{
+    color: #27272799;
+}
+.hot-deals{
+    text-align: center;
+
+}
+
+#off{
+    color: #E55473;
+}
+.deals-header{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 170px;
 }
