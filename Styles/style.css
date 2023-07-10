@@ -1,0 +1,33 @@
+/*Universal Style*/
+*{
+    font-family: 'Lato', sans-serif;
+}
+.common-btn{
+    border: 0;
+    color: #FFF;
+    padding: 15px 30px;
+    gap: 10px;
+    border-radius: 5px;
+    background: #E55473;
+}
+
+/*Banner Styles*/
+
+.bannar{
+    background-color:#E554731A;
+    /*background-image: url('../Images/pngwing\ 10.png');*/
+    padding: 50px 130px 0 230px;
+    max-height: 800px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bannar-heading{
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 240px;
+}
+#bannar-btn{
+    margin-top: 10px;
+}
