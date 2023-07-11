@@ -32,6 +32,69 @@
     margin-top: 10px;
     
 }
+
+/*feature flower style"*/
+.fearture-flower{
+    text-align: center;
+    margin: 110px 200px 0;
+}
+.feature-head{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-para{
+    color:#27272799;
+    font-size: 14px;
+    font-weight: 400;
+}
+.feature-pic > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px 0;
+}
+.feature-pic li{
+    border-radius: 200px 200px 0 0;
+    background-color: #A7216226;
+    min-width: 320px;
+    padding-top: 70px;
+
+}
+.picturs-title> ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 200px 0;
+    margin-bottom: 100px;
+}
+.picturs-title li{
+    text-decoration: underline;
+    color: #272727;
+}
+/*
+.feature-pic{
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    justify-items:;
+    margin: 50px 200px;
+}
+.feature-pic li{
+    border-radius: 200px 200px 0 0;
+    background-color: #A7216226;
+    min-height: 350px;
+    min-width: 320px;
+    padding-top: 80px;
+    border: 2px solid black;
+}
+*/
+.images{
+    padding-left: 50px;
+    max-height: 280px;
+    min-width: 180px;
+}
+
 /*deals section*/
 .Deal{
     background-color: #f9e0e0;
@@ -73,7 +136,7 @@
 .image{
     height: 310px;
 }
-section > ul{
+.social-media > ul{
     list-style: none;
     display: flex;
     justify-items: center;
@@ -81,7 +144,7 @@ section > ul{
     padding: 0 200px;
     
 }
-section li{
+.social-media li{
     margin-right: 10px;
 }
 /*Section 3 Styles*/
@@ -116,6 +179,7 @@ section li{
 }
 
 /*Foter Section Styles*/
+
 .footer-section{
     background: #111010;;
     text-align: center;
