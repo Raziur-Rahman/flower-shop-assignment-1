@@ -58,3 +58,28 @@
     font-weight: 800;
     margin-top: 170px;
 }
+
+/*Social media section Styles*/
+
+.social-media{
+    text-align: center;
+    
+    
+}
+.div-social-media{
+    margin-top: 100px;
+}
+.image{
+    height: 300px;
+}
+section > ul{
+    list-style: none;
+    display: flex;
+    justify-items: center;
+    margin-top: 50px;
+    padding: 0 200px;
+    
+}
+section li{
+    margin-right: 15px;
+}
