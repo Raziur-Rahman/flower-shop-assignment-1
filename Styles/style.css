@@ -5,7 +5,7 @@
 .common-btn{
     border: 0;
     color: #FFF;
-    padding: 15px 30px;
+    padding: 10px 30px;
     gap: 10px;
     border-radius: 5px;
     background: #E55473;
@@ -62,15 +62,16 @@
 /*Social media section Styles*/
 
 .social-media{
-    text-align: center;
-    
-    
+    text-align: center; 
+}
+#social-media-para{
+    color: #27272799;
 }
 .div-social-media{
     margin-top: 100px;
 }
 .image{
-    height: 300px;
+    height: 310px;
 }
 section > ul{
     list-style: none;
@@ -81,5 +82,35 @@ section > ul{
     
 }
 section li{
-    margin-right: 15px;
+    margin-right: 10px;
+}
+/*Section 3 Styles*/
+.latest-deal{
+    background-image: url('../Images/Rectangle\ 9.png');
+    margin: 0 200px;
+    min-height: 300px;
+    border-radius: 5px;
+}
+.div-latest-deal{
+    text-align: center;
+    padding-top: 50px;
+}
+.lt-deal-header{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.lt-deal-para{
+    font-size: 14px;
+    color: #27272799;
+    margin-bottom: 50px;
+}
+#input{
+    width: 450px;
+    height: 32px;
+    font-size: 14px;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    margin-right: 10px;
 }
